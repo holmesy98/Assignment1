@@ -1,5 +1,5 @@
 ## Personal Information
-# Blake Holmes, s3863219, s3863219@students.rmit.edu.au, https://holmesy98.github.io/Assignment1/
+##### Blake Holmes, s3863219, s3863219@students.rmit.edu.au, https://holmesy98.github.io/Assignment1/
 <br> Basic background: I'm from Australia, I completed my HSC 5 years ago and have been working since at a pool, I speak English and currently learning some basic Japanese. I'd consider myself a nerd but also very sporty as I play/participate in three different sports (Soccer, basketball and swimming) but also play a lot of video games. 
 
 
