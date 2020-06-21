@@ -2,7 +2,7 @@
 ###### <center> Blake Holmes, s3863219
 ###### <center> s3863219@students.rmit.edu.au
 ###### <center> https://holmesy98.github.io/Assignment1/
-<br> Basic background: I'm from Australia, I completed my HSC 5 years ago and have been working since at a pool, I speak English and currently learning some basic Japanese. I'd consider myself a nerd but also very sporty as I play/participate in three different sports (Soccer, basketball and swimming) but also play a lot of video games. 
+<br> Basic background: I'm from Australia, I completed my HSC 5 years ago and have been working since at a pool as a lifeguard and swim instructor. I trained the staff on how to use the new computer system. I speak English and currently learning some basic Japanese. I'd consider myself a nerd but also very sporty as I have played district and state representative level for three different sports (Soccer, basketball and swimming) but also play a lot of video games.  
 
 ### Interest in IT
 <br>My interest in IT has stemmed from my love of computer games. Ever since I was a young kid, I've always had some type of games console. Knowing how these games and console work always were of interest to me. Pulling apart various electronic components has allowed me to gain a small idea of how these things work. I haven't really had a particular event or person that sparked my interest in the IT industry, it has always just been from being around various technology throughout my life. 
